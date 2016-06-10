@@ -1,0 +1,12 @@
+2016-01-15 15:04:19
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1076, in do_open
+TypeError: argument of type 'NoneType' is not iterable
+2016-02-26 20:59:40
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1076, in do_open
+TypeError: argument of type 'NoneType' is not iterable
+2016-02-26 21:00:45
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1076, in do_open
+TypeError: argument of type 'NoneType' is not iterable
